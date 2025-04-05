@@ -1,4 +1,4 @@
-# ByteTrack-Simplified
+# ByteTrack
 
 A simplified implementation of the ByteTrack algorithm for object tracking using IoU-based association. This project was completed as part of the CSI4533 university class.
 
